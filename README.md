@@ -9,7 +9,7 @@
 *   **项目简介**：基于多智能体（Multi-Agent）架构的垂直领域 AI 客服，专为跨境电商场景打造。
 *   **核心亮点**：实现了多轮对话记忆、中英双语无缝切换，并接入了 RAG 知识库，能精准回答商品推荐、物流追踪与关税政策等复杂问题。
 *   **成果**：已完成云端容器化部署，支持公网实时访问。
-*   👉 **在线体验 Demo**：[点击这里与 AI 客服对话](https://www.modelscope.cn/studios/huhuhummm/GlobalShop/settings)
+*   👉 **在线体验 Demo**：[点击这里与 AI 客服对话](https://www.modelscope.cn/studios/huhuhummm/GlobalShop)
 
 ### 💻 其他开源项目
 *   🎨 **[portfolio](https://github.com/humeng1022/portfolio)**：基于 `Vue` 构建的个人作品集前端展示项目。
